@@ -1,0 +1,9 @@
+.Navbar{
+    display: flex;
+    background-color: aqua;
+    
+}
+.N-favourites{
+    margin-left: 30px;
+    margin-top: 8px;
+}
